@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MONGO_ATLAS_SECRET":"mongodb+srv://biswas_icbs11393k:Kronose@007@atnmtestclustor-xglmb.mongodb.net/test?retryWrites=true"
+    }
+}
